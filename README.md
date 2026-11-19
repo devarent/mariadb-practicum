@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# mariadb-practicum
+
+<sub>Hands-on MariaDB lab: schema design, indexes, stored procedures, triggers, backup/restore, Docker-based exercise.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | mariadb-practicum |
+| Primary language | JavaScript |
+| Topics | database, docker, javascript, mariadb, mysql, practicum, sql |
+| License | MIT |
+| Branch | main |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+mariadb-practicum is a hands-on repository focused on: Hands-on MariaDB lab: schema design, indexes, stored procedures, triggers, backup/restore, Docker-based exercise.. Primary language: JavaScript. Topics: database, docker, javascript, mariadb, mysql, practicum, sql. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
