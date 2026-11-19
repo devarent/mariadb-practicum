@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.sql.bak
+backups/
+*.log
+coverage/
+.DS_Store

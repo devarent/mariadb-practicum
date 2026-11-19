@@ -1,0 +1,17 @@
+{
+  "name": "mariadb-practicum",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MariaDB practicum lab: schema, indexes, procedures, triggers and transactions",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "mysql2": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
