@@ -1,3 +1,13 @@
+# Mariadb-Practicum
+<sub><span style="opacity: 0.85">Hands-on MariaDB lab: schema design, indexes, stored procedures, triggers, backup/restore, Docker-based exercise.</span></sub>
+<div align="center" style="font-size: 0.9em">
+<img src="assets/brand-logo.svg" alt="Arya Fatthurahman" width="130px" />
+</div>
+
+[![CI](https://github.com/devarent/mariadb-practicum/actions/workflows/ci.yml/badge.svg)](https://github.com/devarent/mariadb-practicum/actions/workflows/ci.yml)
+
+---
+
 
 <!-- identity-block -->
 <div align="center">
@@ -274,3 +284,9 @@ MIT 2026 Arya Fatthurahman.
 <div align="center">
 <sub>Hands-on engineering, built and documented in the open.</sub>
 </div>
+## Quickstart
+
+```bash
+cd <repo>
+# Setup instructions are in the project sections above.
+```
